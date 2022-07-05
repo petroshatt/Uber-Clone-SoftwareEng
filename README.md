@@ -1,3 +1,3 @@
 # Uber-Clone-SoftwareEng
 
-Project for Software Engineering course.
+Project for Software Engineering course in Java.
